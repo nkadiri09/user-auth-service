@@ -1,3 +1,4 @@
+/*
 package com.naren.auth.user_auth_service.entity;
 
 import jakarta.persistence.*;
@@ -23,3 +24,4 @@ public class Role {
         inverseJoinColumns = @JoinColumn(name = "feature_id"))
     private Set<Feature> features;
 }
+*/

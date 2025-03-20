@@ -1,3 +1,4 @@
+/*
 package com.naren.auth.user_auth_service.entity;
 
 import jakarta.persistence.*;
@@ -20,3 +21,4 @@ public class Feature {
 
 
 }
+*/
